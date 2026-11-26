@@ -12,3 +12,4 @@ git add script/commit-history.json
 git add script/tdd_log.json
 git commit --amend --no-edit 
 unset HUSKY
+node "$REPO_DIR/script/publish-test-result.js"

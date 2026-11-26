@@ -20,3 +20,15 @@ npm test
 
 Ejecutar pruebas de unidad solo una vez:
 npm run test-once
+
+### Integración con TDDLab
+
+Después de cada commit, el hook de Husky publica en TDDLab el resultado de las pruebas asociado al SHA final del commit.
+
+Por defecto usa `http://localhost:3000/api/TDDCycles/branch-tracking/ingest`. Para apuntar a otra instancia:
+
+```bash
+TDDLAB_API_URL=https://tu-instancia/api/TDDCycles/branch-tracking/ingest git commit -m "mensaje"
+```
+
+La publicación es opcional para no bloquear commits cuando la API no está disponible. Para hacerla obligatoria, usa `TDDLAB_API_REQUIRED=1`.

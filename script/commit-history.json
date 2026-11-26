@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2026-11-26T21:41:51.000Z",
+      "message": "chore: publicar registros TDD en la plataforma",
+      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/HEAD"
+    },
+    "stats": {
+      "total": 129,
+      "additions": 128,
+      "deletions": 1,
+      "date": "2026-11-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
