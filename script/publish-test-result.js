@@ -4,7 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const DEFAULT_API_URL = "http://localhost:3000/api/TDDCycles/branch-tracking/ingest";
-const REQUEST_TIMEOUT_MS = 5000;
+const REQUEST_TIMEOUT_MS = 20000;
 
 const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
 const historyFile = path.join(scriptDirectory, "commit-history.json");
