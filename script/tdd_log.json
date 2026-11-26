@@ -58,9 +58,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d46b6df2f39c2897d7b9ef0416a2bad63813302a",
     "commitName": "feat: agregar restador",
     "commitTimestamp": 1795730599696,
     "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1795730664078,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1795730697446,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar multiplicador",
+    "commitTimestamp": 1795730700028,
+    "testId": 4
   }
 ]
