@@ -102,9 +102,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bc60834d2bef92e93392fdc2c947314c75b7c34f",
     "commitName": "feat: agregar divisor",
     "commitTimestamp": 1795730797252,
     "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1795731031492,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "chore: registrar validacion final TDD",
+    "commitTimestamp": 1795731062310,
+    "testId": 6
   }
 ]

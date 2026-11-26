@@ -95,16 +95,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bc60834d2bef92e93392fdc2c947314c75b7c34f",
     "author": "RashLop",
     "commit": {
       "date": "2026-11-26T22:06:35.000Z",
       "message": "feat: agregar divisor",
-      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/HEAD"
+      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/bc60834d2bef92e93392fdc2c947314c75b7c34f"
     },
     "stats": {
       "total": 12,
       "additions": 12,
+      "deletions": 0,
+      "date": "2026-11-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2026-11-26T22:11:00.000Z",
+      "message": "chore: registrar validacion final TDD",
+      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
       "deletions": 0,
       "date": "2026-11-26"
     },
