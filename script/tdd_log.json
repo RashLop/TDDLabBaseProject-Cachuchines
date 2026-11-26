@@ -80,9 +80,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "15e75aeda77bcd19b5dc9de643362add5dd551d3",
     "commitName": "feat: agregar multiplicador",
     "commitTimestamp": 1795730700028,
     "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1795730751371,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1795730794676,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar divisor",
+    "commitTimestamp": 1795730797252,
+    "testId": 5
   }
 ]
