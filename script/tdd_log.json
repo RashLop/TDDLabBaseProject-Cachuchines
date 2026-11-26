@@ -36,9 +36,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "992b76183673c4b00cf7c9dd86c2bca21c24548b",
     "commitName": "fix: ampliar espera de publicacion TDD",
     "commitTimestamp": 1795730475142,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1795730522438,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1795730597159,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar restador",
+    "commitTimestamp": 1795730599696,
+    "testId": 3
   }
 ]
