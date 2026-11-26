@@ -19,16 +19,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d49821f1f820311e92b28fee9db5a66b6737f200",
     "author": "RashLop",
     "commit": {
       "date": "2026-11-26T21:46:00.000Z",
       "message": "feat: aceptar numeros de texto en el sumador",
-      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/HEAD"
+      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/d49821f1f820311e92b28fee9db5a66b6737f200"
     },
     "stats": {
       "total": 6,
       "additions": 5,
+      "deletions": 1,
+      "date": "2026-11-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2026-11-26T22:01:13.000Z",
+      "message": "fix: ampliar espera de publicacion TDD",
+      "url": "https://github.com/RashLop/TDDLabBaseProject-Cachuchines/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
       "deletions": 1,
       "date": "2026-11-26"
     },

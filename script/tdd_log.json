@@ -30,9 +30,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d49821f1f820311e92b28fee9db5a66b6737f200",
     "commitName": "feat: aceptar numeros de texto en el sumador",
     "commitTimestamp": 1795729562529,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: ampliar espera de publicacion TDD",
+    "commitTimestamp": 1795730475142,
+    "testId": 2
   }
 ]
